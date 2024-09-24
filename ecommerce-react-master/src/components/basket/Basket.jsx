@@ -77,7 +77,7 @@ const Basket = () => {
             type="button"
           >
             Sign in to checkout
-          </button>zv
+          </button>zvv
         </div>
       </Modal>
       <div className="basket">
